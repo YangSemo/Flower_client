@@ -10,7 +10,7 @@ import flwr as fl
 
 from collections import Counter
 
-import dataset
+import health_dataset as dataset
 
 import numpy as np
 
